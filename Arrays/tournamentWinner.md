@@ -1,6 +1,6 @@
 # Question 
 
-![image](https://github.com/ChaosAdmStudent/dsa-qs/assets/53689018/b27c5aed-d97a-45a9-9453-88e279b3230c){height=50% width=50%}
+![image](https://github.com/ChaosAdmStudent/dsa-qs/assets/53689018/b27c5aed-d97a-45a9-9453-88e279b3230c)
 
 ![image](https://github.com/ChaosAdmStudent/dsa-qs/assets/53689018/a4560dfe-d493-4c8d-ac89-3699def67b07)
 
