@@ -31,3 +31,8 @@ The approach here is similar, in that, it uses two pointers within the array so 
 ### Code 
 
 ![image](https://github.com/ChaosAdmStudent/dsa-qs/assets/53689018/0b6815c3-8c59-4d4e-8873-f30d1fbb9ace)
+
+# Takeaway 
+
+- If an array of positive and negative numbers are sorted, the biggest even power of elements inside this array will either be in the start or beginning of the array, depending on their absolute values. Use this concept to recursively update the start and end pointer comparisons.
+- Try to think if using two pointers instead of one within an array, moving in different directions can reduce time complexity.
