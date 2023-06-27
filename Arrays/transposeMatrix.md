@@ -19,7 +19,7 @@ I overcomplicated by trying to think with a symmetrical line of thought where I 
 
 After giving it another thought, I realized that I was thinking of a square matrix because I was essentially running out of index positions if I tried to SWAP elements in a non square matrix with the method used above. However, this was easily doable if I initialized another result array with dimensions flipped around. 
 
-- Initialize array of 0s with dimensions MxN
+- Initialize array of 0s with dimensions MxN.
 - newarr[i][j] = oldarr[j][i]
 
 ### Code 
