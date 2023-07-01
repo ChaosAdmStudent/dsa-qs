@@ -11,7 +11,7 @@ Reason: Function started decreasing initially, but at one point increased from -
 
 Sample Input: [1, 1, 2, 3, 4, 5, 5, 5, 6, 7, 8, 7, 9, 10, 11]
 Sample Output: False
-Reason: Function started increasing initially, but at one point decreased from 8 to 7 
+Reason: Function started increasing initially, but at one point decreased from 8 to 7.
 ```
 
 ## Approach 
