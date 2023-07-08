@@ -13,4 +13,5 @@
 13. Read and understand the question properly.
 14. Make use of every single detail given in the prompt. They will never give extra details.
 15. If all numbers in an array are between 1 and n, you can use the values itself to reference index positions in the array.
-16. Any form of overlapping operation/checking in an array should be done after sorting the array. 
+16. Any form of overlapping operation/checking in an array should be done after sorting the array.
+17. For subarray problems, see if the problem statement can be solved by storing information of subarrays made from 0th index to the pointer index as the pointer traverses once over the main array. 
