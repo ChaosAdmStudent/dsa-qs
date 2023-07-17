@@ -17,3 +17,4 @@
 17. For subarray problems, see if the problem statement can be solved by storing information of subarrays made from 0th index to the pointer index as the pointer traverses once over the main array.
 18. For arrays whose values are linked with the length of the array, use the values as indices in some way
 19. For problems where 2 values are missing, try to find 2 equations that relate the missing values. This is because we can solve a system of 2 equations and 2 variables.
+20. For occurence frequency questions in arrays, try solving using a common counter which looks at the subarray that gets built while traversing through the array. 
